@@ -1,0 +1,34 @@
+table {
+	border-collapse: collapse;
+	border: 9px solid white;
+}
+td {
+	border: 8px solid black;
+}
+.first_width {
+	width: 70px;
+}
+.second_width {
+	width: 90px;
+}
+.first_line {
+	height: 70px;
+}
+.second_line {
+	height: 115px;
+}
+.third_line {
+	height: 30px;
+}
+.yellow {
+	background: #FFD700;
+}
+.red {
+	background: #EE2C2C;
+}
+.black {
+	background: #1C1C1C;
+}
+.blue {
+	background: #0000CD;
+}
