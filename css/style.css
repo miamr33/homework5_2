@@ -5,19 +5,19 @@ table {
 td {
 	border: 8px solid black;
 }
-.first_width {
+.thin_cell {
 	width: 70px;
 }
-.second_width {
+.wide_cell {
 	width: 90px;
 }
-.first_line {
+.medium_line {
 	height: 70px;
 }
-.second_line {
+.thick_line {
 	height: 115px;
 }
-.third_line {
+.thin_line {
 	height: 30px;
 }
 .yellow {
